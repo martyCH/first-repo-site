@@ -1,4 +1,5 @@
 body {
+<<<<<<< HEAD
   background: red;
   width: 970px;
   margin: 0 auto;
@@ -8,4 +9,10 @@ h1 {
 }
 body p {
   font-size: 11px;
+=======
+  background: green;
+}
+h1 {
+  font-size: 80px;
+>>>>>>> new_style
 }
